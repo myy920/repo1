@@ -9,5 +9,6 @@ public class Demo1 {
     }
     private static void do2(){
         System.out.println("do2");
+        System.out.println(1);
     }
 }
