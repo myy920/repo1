@@ -11,5 +11,6 @@ public class Demo1 {
         System.out.println("do2");
         System.out.println(1);
         System.out.println(2);
+        System.out.println(3);
     }
 }
